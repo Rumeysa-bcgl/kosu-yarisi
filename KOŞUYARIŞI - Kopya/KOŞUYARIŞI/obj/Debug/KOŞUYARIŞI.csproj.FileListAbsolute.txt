@@ -1,0 +1,20 @@
+C:\Users\RMYS\source\repos\KOŞUYARIŞI\KOŞUYARIŞI\bin\Debug\KOŞUYARIŞI.exe.config
+C:\Users\RMYS\source\repos\KOŞUYARIŞI\KOŞUYARIŞI\bin\Debug\KOŞUYARIŞI.exe
+C:\Users\RMYS\source\repos\KOŞUYARIŞI\KOŞUYARIŞI\bin\Debug\KOŞUYARIŞI.pdb
+C:\Users\RMYS\source\repos\KOŞUYARIŞI\KOŞUYARIŞI\obj\Debug\KOŞUYARIŞI.csprojAssemblyReference.cache
+C:\Users\RMYS\source\repos\KOŞUYARIŞI\KOŞUYARIŞI\obj\Debug\KOŞUYARIŞI.Form1.resources
+C:\Users\RMYS\source\repos\KOŞUYARIŞI\KOŞUYARIŞI\obj\Debug\KOŞUYARIŞI.Properties.Resources.resources
+C:\Users\RMYS\source\repos\KOŞUYARIŞI\KOŞUYARIŞI\obj\Debug\KOŞUYARIŞI.csproj.GenerateResource.cache
+C:\Users\RMYS\source\repos\KOŞUYARIŞI\KOŞUYARIŞI\obj\Debug\KOŞUYARIŞI.csproj.CoreCompileInputs.cache
+C:\Users\RMYS\source\repos\KOŞUYARIŞI\KOŞUYARIŞI\obj\Debug\KOŞUYARIŞI.exe
+C:\Users\RMYS\source\repos\KOŞUYARIŞI\KOŞUYARIŞI\obj\Debug\KOŞUYARIŞI.pdb
+C:\Users\RMYS\Desktop\KOŞUYARIŞI - Kopya\KOŞUYARIŞI\bin\Debug\KOŞUYARIŞI.exe.config
+C:\Users\RMYS\Desktop\KOŞUYARIŞI - Kopya\KOŞUYARIŞI\bin\Debug\KOŞUYARIŞI.exe
+C:\Users\RMYS\Desktop\KOŞUYARIŞI - Kopya\KOŞUYARIŞI\bin\Debug\KOŞUYARIŞI.pdb
+C:\Users\RMYS\Desktop\KOŞUYARIŞI - Kopya\KOŞUYARIŞI\obj\Debug\KOŞUYARIŞI.csprojAssemblyReference.cache
+C:\Users\RMYS\Desktop\KOŞUYARIŞI - Kopya\KOŞUYARIŞI\obj\Debug\KOŞUYARIŞI.Form1.resources
+C:\Users\RMYS\Desktop\KOŞUYARIŞI - Kopya\KOŞUYARIŞI\obj\Debug\KOŞUYARIŞI.Properties.Resources.resources
+C:\Users\RMYS\Desktop\KOŞUYARIŞI - Kopya\KOŞUYARIŞI\obj\Debug\KOŞUYARIŞI.csproj.GenerateResource.cache
+C:\Users\RMYS\Desktop\KOŞUYARIŞI - Kopya\KOŞUYARIŞI\obj\Debug\KOŞUYARIŞI.csproj.CoreCompileInputs.cache
+C:\Users\RMYS\Desktop\KOŞUYARIŞI - Kopya\KOŞUYARIŞI\obj\Debug\KOŞUYARIŞI.exe
+C:\Users\RMYS\Desktop\KOŞUYARIŞI - Kopya\KOŞUYARIŞI\obj\Debug\KOŞUYARIŞI.pdb
